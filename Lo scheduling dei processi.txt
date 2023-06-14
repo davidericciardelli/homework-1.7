@@ -1,0 +1,1 @@
+Lo scheduling dei processi con politica Round Robin prevede l'assegnazione di un intervallo di tempo prefissato detto quanto (Time slice) in questo caso di 12 millisecondi e se alla fine del Quanto il primo processo non ha terminato l'esecuzione la CPU viene comunque affidata al secondo processo (ogni processo ha la sessa priorità) e si segue il tempo di arrivo.
